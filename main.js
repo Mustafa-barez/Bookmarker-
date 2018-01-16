@@ -23,6 +23,6 @@ function saveBookmark(e) {
      var bookmarks =[];
      }
   
-// Prevent form from submitting
+// Prevent form from submitting 
 e.preventDefault();
 }
