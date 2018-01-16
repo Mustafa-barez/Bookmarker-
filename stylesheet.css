@@ -33,7 +33,7 @@ body {
   border-top: .05rem solid #e5e5e5;
 }
 
-/* Customize container */
+/* Customize container  */
 @media (min-width: 48em) {
   .container {
     max-width: 46rem;
